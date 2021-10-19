@@ -1,0 +1,27 @@
+ Make A project structure
+Routing
+   Install routing package
+   Make Component
+        RestaurantsList
+        RestaurantsDetails
+        RestaurantsSearch
+        RestaurantsCreate
+        RestaurantsUpdate
+    Make Link For All Component
+    Make Route For All Component
+Login and registration
+Api calls
+Listing of restaurants
+Make New restaurants
+Update restaurants details
+Delete restaurants
+Search restaurants
+style and design
+etc.....
+
+Advance
+google map
+redux
+upload photos
+gallery
+login with facebook, google
